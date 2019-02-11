@@ -6,7 +6,7 @@ for how the downloads plugin and site plugin are configured.asds
 # Getting started
 
 * Fork this project
-* Update the `pom.xml` file `<url>` element to be the address of your forkaadd
+* Update the `pom.xml` file `<url>` element to be the address of your forkaaddsds
 * Optionally update `<scm>` and `<developers>` section as well to have the information for your fork
 * Add the following to your Maven `settings.xml` file updated with your GitHub login name and password:
 
